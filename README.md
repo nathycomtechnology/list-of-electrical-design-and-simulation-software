@@ -1,0 +1,1 @@
+# list-of-electrical-design-and-simulation-software
